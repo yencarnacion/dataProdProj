@@ -1,6 +1,6 @@
 library(shiny)
 
-shinyUI(navbarPage("Twitter-When  | When is a term twitted?",
+shinyUI(navbarPage("Twitter-When  | When is a term tweeted?",
 
 
   tabPanel("Twitter-When",
