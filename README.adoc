@@ -1,0 +1,2 @@
+== Course Project for Coursera Developing Data Products Course
+This repo contains the code for a shiny app called Twitter-When.  The App searches for a term on Twitter and produces a histogram showing at what time interval the term is Tweeted most.
